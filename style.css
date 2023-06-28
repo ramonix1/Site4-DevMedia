@@ -1,0 +1,61 @@
+.secao{
+    width:700px;
+    margin: 20px auto;
+    text-align:center;
+}
+.imagem-logotipo{
+    width:200px;
+}
+a{
+    margin:0 10px;
+    color:#542f0c;
+    padding:10px;
+    border: 2px solid #542f0c;
+    border-radius:50px;
+}
+h1{
+    font-size:28px;
+    font-family:Verdana;
+    padding-top: 30px;
+    margin-top: 30px;
+    margin-bottom:0;
+    border-top: 1px solid #542f0c;
+}
+h2{
+    font-weight:normal;
+    font-family:Verdana;
+    color:#de8e37;
+    margin-top:10px;
+}
+.imagem-banner{
+    width: 700px;
+    margin:0 auto;
+}
+.secao-destaque{
+    background-color:#de8e37;
+    padding-top:15px;
+    padding-bottom:15px;
+    color:#fff;
+    font-style:Verdana;
+}
+.secao-destaque h3{
+    font-size:24px;
+
+}
+.secao-destaque h4{
+   font-size:20px;
+      margin-bottom:10px;
+}
+.secao-destaque img{
+    width:400px;
+}
+.secao-destaque p{
+    width: 500px;
+    margin:0 auto;
+    line-height:30px;
+
+}
+body{
+    font-family: Verdana;
+    font-weight:bold;
+}
